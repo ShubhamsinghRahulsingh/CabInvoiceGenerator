@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+namespace Cab_Invoice_Generator
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to the Cab Ride Problem Statement for testing");
+        }
+    }
+}
